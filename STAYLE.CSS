@@ -21,6 +21,6 @@ float: right;
 .ft {
 float: clear;
 }
-li {
-display: inline-block
+ul {
+display: inline-block;
 }
