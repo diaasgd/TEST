@@ -4,3 +4,12 @@ background-color: rgba(110, 110, 168, 0.205);
 div {
 display: flex;
 }
+.img1 {
+float: left;
+}
+.img2 {
+float: right;
+}
+.ft {
+float: clear;
+}
