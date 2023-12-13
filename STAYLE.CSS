@@ -28,9 +28,10 @@ float: left;
 float: right;
 }
 
-hr, .ft {
+hr, .ft, ul {
 clear: both;
 }
 li {
 display: inline-block;
+style: none;
 }
