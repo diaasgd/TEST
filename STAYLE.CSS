@@ -5,7 +5,7 @@ h1, h2 {
 h3 {
 border: 10px solid black;
 border-radius: 5px
-background-color: #9b988e;
+background: #f72877;
 width: fit-content;
 div {
     display: inline-block;
