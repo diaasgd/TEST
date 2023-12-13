@@ -18,7 +18,16 @@ div {
 .box1, img1 {
 float: left;
 }
-.box2, img2, .hl1 {
+img1 {
+float: left;
+}
+.hl1 {
+float: right;
+}
+.box2 {
+float: right;
+}
+img2 {
 float: right;
 }
 
