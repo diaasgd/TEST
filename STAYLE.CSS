@@ -13,6 +13,7 @@ div {
     display: inline-block;
     height: 100vh;
     background-color: #f2f2f2;
+    width: 40%;
 }
 .box1 {
 float: left;
@@ -27,7 +28,7 @@ float: left;
 float: right;
 }
 .ft {
-float: clear;
+clear: both;
 }
 li {
 display: inline-block;
