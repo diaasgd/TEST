@@ -27,7 +27,8 @@ float: left;
 .img2 {
 float: right;
 }
-.ft {
+
+hr, .ft {
 clear: both;
 }
 li {
